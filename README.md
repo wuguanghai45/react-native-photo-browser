@@ -10,7 +10,7 @@ The component has both iOS and Android support.
 ![](screenshots/screenshot-2.png)
 
 ### Installation 
-```npm install react-native-photo-browser --save```
+```yarn add react-native-photo-browser@https://github.com/wuguanghai45/react-native-photo-browser.git ```
 
 ### Properties
 
@@ -70,7 +70,7 @@ Follow those steps to run the example:
 - [x] Android support
 - [ ] Improve performance for bigger collections
 - [ ] Video support
-- [ ] Photo zoom
+- [x] Photo zoom
 - [ ] Zooming photos to fill the screen
 
 ### Licence
